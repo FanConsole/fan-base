@@ -1,0 +1,1 @@
+.fan-picker__box{flex:1;font-size:16px;overflow:hidden}.fan-picker__l{transition-duration:.3s;transition-property:2;transition-timing-function:cubic-bezier(.23,1,.68,1)}.fan-picker__txt{height:44px;padding:0 4px;color:#323233}.fan-picker__d{opacity:var(--fan-disabled-opacity)}

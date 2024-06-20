@@ -1,0 +1,1 @@
+.fan-rate{--fan-rate-space: 3px;display:flex;line-height:1;font-size:0;flex-direction:row}.fan-rate__icon{position:relative;margin-right:var(--fan-rate-space)}.fan-rate__icon:last-child{margin-right:0}.fan-rate__icon-on{overflow:hidden;position:absolute;top:0;left:0}
